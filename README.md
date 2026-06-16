@@ -119,4 +119,4 @@ Open a Pull Request to the assessment repository with the full project. Paste th
 - **Make the eval honest.** A small eval that catches one real regression beats a big one full of trivial passes.
 - **Never commit your API key.** Use `.env` and `.env.example`.
 
-Good luck — ship something you'd actually demo.
+Good luck — ship something you'd actually demo...
